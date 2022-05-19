@@ -37,4 +37,10 @@ class Project
   end
 
 
+  def update(input)
+    @title = input[:title]
+    DB.exec("UPDATE projects SET title = '#{@title}' WHERE id = #{@id};")
+  end
+
+
 end
