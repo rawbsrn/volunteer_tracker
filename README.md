@@ -13,7 +13,7 @@
 
 ## Description
 
-A website with nested CRUD (Create, Read, Update, and Delete) functionality 
+A website with nested CRUD (Create, Read, Update, and Delete) functionality to track which volunteers are working on what projects in a SQL database in a one-to-many relationship.
 
 ## Setup/Installation Requirements
 
@@ -21,7 +21,7 @@ A website with nested CRUD (Create, Read, Update, and Delete) functionality
 
 *  Git clone repository to local machine:
 ```
-git clone 
+git clone https://github.com/rawbsrn/volunteer_tracker.git
 ```
 
 * Install dependencies:
